@@ -2,7 +2,7 @@
   "name": "react-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.js", 
   "scripts": {
     "test": "jest --no-color 2>output.txt",
     "start": "webpack-dev-server --mode development --watch --open --hot",
